@@ -3,9 +3,7 @@ let sec = 0;
 let min = 0;
 let hr = 0;
 
-
-
-
+// THANKYOU
 
 let timer = false;
 function start(){
