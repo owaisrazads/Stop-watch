@@ -7,6 +7,7 @@ let hr = 0;
 // THANKYOU
 
 
+
 let timer = false;
 function start(){
     timer = true;
