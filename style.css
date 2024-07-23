@@ -8,11 +8,16 @@ body{
     background-color: black;
     color: white;
 }
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
 .container{
 align-items: center;
   text-align: center;
-  display: flex;
-    justify-sontent: center;
+
   width: 600px;
   border: 2px solid white;
   padding: 12px 0px;
